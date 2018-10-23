@@ -1,2 +1,2 @@
-/**/
-Game project in GAM100
+/*Game project in GAM100*/
+
